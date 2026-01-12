@@ -48,8 +48,8 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - Style layers and manage map themes.
 - Annotate maps with graticules, north arrows, insets, and labels.
 - Used advanced QGIS labelling features like rule-based labels, manual placement, and callouts.
-- - **Image:**
-
+- **Image:**
+<img width="600" height="1748" alt="publication map" src="https://github.com/user-attachments/assets/69461b30-97c3-4c2a-97ae-9bbe5fbe2314" />
 
 
 ### 2. Bob Ross Style Map
@@ -59,7 +59,9 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - Strengthen an understanding of creating and managing vector layers in a GeoPackage.
 - Explore advanced QGIS styling and rendering tools to produce artistic effects.
 - Gain confidence in digitising and managing geospatial data creatively.
-- - **Image:**
+- **Image:**
+ <img width="600" height="2480" alt="bob ross activity" src="https://github.com/user-attachments/assets/376c3cf3-bac4-4e44-9270-a20beedbdf31" />
+
 
 
 ### 3. Tourism Map
@@ -68,7 +70,9 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - **Learning Outomes:**
 - Design an aesthetically pleasing and informative tourism map.
 - Learn to use OSM data in QGIS for map creation.
-- - **Image:**
+- **Image:**
+<img width="600" height="3507" alt="tourism map" src="https://github.com/user-attachments/assets/8dfc9d64-4b0f-4c27-a62b-6f4872cb9cc5" />
+
 
 
 ### 4. Python Coding Work
@@ -100,12 +104,15 @@ I am actively seeking internship or junior-level opportunities where I can learn
 ### Projects
 
 ### 1. Arc Story Maps
-- **Description:** 
+- **Description:** This StoryMap visualizes fire danger levels across provinces, providing an interactive view of spatial risk patterns. The project demonstrates how geospatial analysis and mapping can support environmental management, disaster preparedness, and decision-making by clearly communicating areas of higher fire risk.
 - **Tools Used:** ArcGis Story Map
-- [View StoryMap Details](https://storymaps.arcgis.com/stories/6129bb42567b4481947bc2596a3ce72c)
+[View StoryMap Details](https://storymaps.arcgis.com/stories/6129bb42567b4481947bc2596a3ce72c)
 
 
 ### 2. Arcgis Online Maps
 - **Description:** This  map displays fire danger levels across South Africa’s nine provinces, combined with real-time satellite-detected fire hotspots using Fire Radiative Power (FRP) data from MODIS. Provinces are color-coded by fire risk level, while hotspot points are sized and colored based on fire intensity, providing an integrated view of fire risk and active fires for improved monitoring and decision-making.
 - **Tools Used:** ArcGis Online
 - **Image:**
+<img src="https://github.com/user-attachments/assets/15d5eca5-9959-4b56-b41e-880478864c89" alt="Fire Danger per Province" width="600" />
+
+
