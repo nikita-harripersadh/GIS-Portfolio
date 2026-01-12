@@ -24,7 +24,7 @@ I am actively seeking internship or junior-level opportunities where I can learn
 
 ## Skills Demonstrated
 - GIS Platforms: QGIS, ArcGIS Pro
-- Spatial Analysis: Buffer, Clip, Intersect, Raster Analysis
+- Spatial Analysis
 - Cartography & Visualization
 - Basic Python for GIS (Jupyter Notebooks)
 - Data Management & Cleaning
@@ -41,36 +41,50 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - **Description:** This exercise simulated a client request to create a publication-ready map using QGIS, with the purpose of following the detailed specifications to export it as a PDF and PNG file for inclusion in a scientific paper.
 - **Tools Used:** QGIS
 - **Learning Outcomes:** 
-Create and manage GeoPackages.
-Import layers into GeoPackages.
-Add new attribute data to layers.
-Save QGIS projects within GeoPackages.
-Style layers and manage map themes.
-Annotate maps with graticules, north arrows, insets, and labels.
-Used advanced QGIS labelling features like rule-based labels, manual placement, and callouts.
-![Alt Text](C:\Users\nikit\Downloads\Kartoza\QGIS Projects\Small scale Africa Map\SASS Countries.png)
+- Create and manage GeoPackages.
+- Import layers into GeoPackages.
+- Add new attribute data to layers.
+- Save QGIS projects within GeoPackages.
+- Style layers and manage map themes.
+- Annotate maps with graticules, north arrows, insets, and labels.
+- Used advanced QGIS labelling features like rule-based labels, manual placement, and callouts.
 
 
 ### 2. Bob Ross Style Map
 - **Description:** Creative, symbol-based map inspired by Bob Ross, demonstrating advanced symbology and cartographic storytelling.
 - **Tools Used:** QGIS
-- [View Project Details](Bob-Ross-Map/project_description.md)
+- **Learning Outcomes:** 
+- Strengthen an understanding of creating and managing vector layers in a GeoPackage.
+- Explore advanced QGIS styling and rendering tools to produce artistic effects.
+- Gain confidence in digitising and managing geospatial data creatively.
 
 ### 3. Tourism Map
 - **Description:** Thematic tourism map highlighting attractions and infrastructure, designed for planning and visitor information.
 - **Tools Used:** QGIS
-- [View Project Details](Tourism-Map/project_description.md)
+- **Learning Outomes:**
+- Design an aesthetically pleasing and informative tourism map.
+- Learn to use OSM data in QGIS for map creation.
 
 ### 4. Python Coding Work
-- **Description:** Python scripts supporting data manipulation and geospatial workflows.
-- **Tools Used:** QGIS, Python
-- [View Project Details](QGIS-Coding/README.md)
+- **Description:** Understand the foundation that builds computers.Exercise computational/logical thinking for solving problems.
+- **Tools Used:** VSCODE, Python
+-  **Learning Outcomes:**
+- Demonstrate foundational programming skills, including writing Python scripts, using variables, and applying basic control structures.
+- Develop and use functions to organize code.
+- Apply logical operators and control flow to solve programming challenges.
+- Validate geospatial vector data (shapefiles) for accuracy and completeness.
+- Use inheritance and polymorphism to create flexible, reusable GIS-related code.  
 
 ### 5. Jupyter Lab Assignments
 - **Description:** Data analysis notebooks showcasing spatial data manipulation and visualization.
 - **Tools Used:** Jupyter Notebook
-- [View Project Details](Jupyter-Labs/README.md)
-
+- **Learning Outcomes:**
+- Understanding Raster Data
+- Explain the concept of raster data and its applications in geospatial analysis, including satellite imagery, elevation models, and environmental datasets.
+- **Technical Proficiency:**
+- Confidently use Python (v3.8+) and Jupyter Lab for geospatial tasks.
+- Install and manage geospatial libraries (Rasterio, Geopandas) and set up working environments for GIS analysis.
+- Apply programmatic solutions to automate raster operations and prepare data for further geospatial analysis.
 
 ## ArcGIS Pro Side Projects
 
