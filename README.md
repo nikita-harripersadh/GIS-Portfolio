@@ -48,6 +48,8 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - Style layers and manage map themes.
 - Annotate maps with graticules, north arrows, insets, and labels.
 - Used advanced QGIS labelling features like rule-based labels, manual placement, and callouts.
+- - **Image:**
+
 
 
 ### 2. Bob Ross Style Map
@@ -57,6 +59,8 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - Strengthen an understanding of creating and managing vector layers in a GeoPackage.
 - Explore advanced QGIS styling and rendering tools to produce artistic effects.
 - Gain confidence in digitising and managing geospatial data creatively.
+- - **Image:**
+
 
 ### 3. Tourism Map
 - **Description:** Thematic tourism map highlighting attractions and infrastructure, designed for planning and visitor information.
@@ -64,6 +68,8 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - **Learning Outomes:**
 - Design an aesthetically pleasing and informative tourism map.
 - Learn to use OSM data in QGIS for map creation.
+- - **Image:**
+
 
 ### 4. Python Coding Work
 - **Description:** Understand the foundation that builds computers.Exercise computational/logical thinking for solving problems.
@@ -94,13 +100,12 @@ I am actively seeking internship or junior-level opportunities where I can learn
 ### Projects
 
 ### 1. Arc Story Maps
-- **Description:** Academic map of South Africa showcasing vector datasets with proper symbology, labeling, and projection.
+- **Description:** 
 - **Tools Used:** ArcGis Story Map
 - [View StoryMap Details](https://storymaps.arcgis.com/stories/6129bb42567b4481947bc2596a3ce72c)
 
 
 ### 2. Arcgis Online Maps
-- **Image:**: ![Alt Text](path/to/image.png)
-
-- **Description:** Academic map of South Africa showcasing vector datasets with proper symbology, labeling, and projection.
-- **Tools Used:** ArcGis Story Map
+- **Description:** This  map displays fire danger levels across South Africa’s nine provinces, combined with real-time satellite-detected fire hotspots using Fire Radiative Power (FRP) data from MODIS. Provinces are color-coded by fire risk level, while hotspot points are sized and colored based on fire intensity, providing an integrated view of fire risk and active fires for improved monitoring and decision-making.
+- **Tools Used:** ArcGis Online
+- **Image:**
