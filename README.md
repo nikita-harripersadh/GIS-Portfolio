@@ -76,7 +76,7 @@ I am actively seeking internship or junior-level opportunities where I can learn
 
 
 ### 4. Python Coding Work
-- **Description:** Understand the foundation that builds computers.Exercise computational/logical thinking for solving problems.
+- **Description:** Understand the foundations of programming.
 - **Tools Used:** VSCODE, Python
 -  **Learning Outcomes:**
 - Demonstrate foundational programming skills, including writing Python scripts, using variables, and applying basic control structures.
