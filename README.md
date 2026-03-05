@@ -102,10 +102,6 @@ A map layout that uses geographic boundaries and population count data for the C
 - Install and manage geospatial libraries (Rasterio, Geopandas) and set up working environments for GIS analysis.
 - Apply programmatic solutions to automate raster operations and prepare data for further geospatial analysis.
 
-## ArcGIS Pro Side Projects
-
-**Platform:** ArcGIS Pro (Esri Academy Certificate + personal exercises)  
-**Focus:** Personal learning, academic exercises, creative projects
 
 
 
