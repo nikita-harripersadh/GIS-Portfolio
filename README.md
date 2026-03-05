@@ -1,7 +1,7 @@
 # GIS Portfolio 
 ## Nikita Harripersadh 
 
-Welcome to my GIS portfolio. I am a recent Environmental Science graduate with practical experience in QGIS and ArcGIS Pro. This portfolio demonstrates my ability to apply geospatial skills to real-world and academic projects, including cartography, spatial analysis, and geospatial coding.
+Welcome to my GIS portfolio. This portfolio demonstrates my ability to apply geospatial skills to real-world and academic projects, including cartography, spatial analysis, and geospatial coding.
 
 ## About Me
 I’m a recent graduate from Rhodes University with a Bachelor of Science in Environmental Science and Human Kinetics and Ergonomics. I hold a certificate in ArcGIS Pro Basics from Esri South Africa and am passionate about continuous learning—regularly completing Esri Academy and LinkedIn Learning courses to expand my GIS skillset.
@@ -9,9 +9,6 @@ I’m a recent graduate from Rhodes University with a Bachelor of Science in Env
 My journey into GIS began through my environmental science coursework, where I discovered the value of spatial data in understanding and addressing real-world challenges. This interest was further strengthened during a four-month GIS internship at Kartoza, where I gained hands-on experience using QGIS for spatial data processing, mapping, and analysis within a professional geospatial environment. 
 
 GIS has since become the intersection of data, geography, and storytelling that now shapes my career goals.
-
-## Why GIS?
-I’m a student of Environmental Science and Human Kinetics & Ergonomics, with a deep interest in how people interact with their environments — both natural and built. My passion lies in using spatial data and mapping tools to understand and respond to environmental challenges like wildfire risk, climate change, and land use impacts.
 
 ## Whats Next?
 **Availability:** Open to internships, collaborations, or junior GIS roles.
