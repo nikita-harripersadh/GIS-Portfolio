@@ -50,6 +50,12 @@ A web-ready interactive visualization, here this interactive map visualizes heal
 The dashboard provides a spatial overview of healthcare infrastructure in KZN, supporting research, planning, or public information awareness. It demonstrates skills in data cleaning, geospatial analysis, and interactive mapping.
 
 **Watch the Demo Video:** [Watch the KZN Dashboard Demo](videos/demo-kzn-dashboard.mp4)
+## KZN Dashboard Demo
+
+<video width="600" controls>
+  <source src="videos/demo-kzn-dashboard.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **Check out the interactive map here:**  https://nikita-harripersadh.github.io/kzn-health-dashboard/
 
