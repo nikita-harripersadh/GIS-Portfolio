@@ -49,7 +49,7 @@ A web-ready interactive visualization, here this interactive map visualizes heal
 **Purpose:**
 The dashboard provides a spatial overview of healthcare infrastructure in KZN, supporting research, planning, or public information awareness. It demonstrates skills in data cleaning, geospatial analysis, and interactive mapping.
 
-![KZN Dashboard Map](images/kzn-dashboard-map.png)
+<img width="800" alt="KZN Dashboard Map" src="images/kzn-dashboard-map.png" />
 
 [Watch the KZN Dashboard Demo](https://youtu.be/zaUfj0HtFZo).
 
