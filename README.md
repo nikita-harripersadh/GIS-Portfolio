@@ -49,6 +49,8 @@ A web-ready interactive visualization, here this interactive map visualizes heal
 **Purpose:**
 The dashboard provides a spatial overview of healthcare infrastructure in KZN, supporting research, planning, or public information awareness. It demonstrates skills in data cleaning, geospatial analysis, and interactive mapping.
 
+**Check out the interactive map here:**  https://nikita-harripersadh.github.io/kzn-health-dashboard/
+
 **Earthquake Data**
 <img width="3507" height="2480" alt="Earthquakes" src="https://github.com/user-attachments/assets/4f958503-56b1-4acc-9bae-5101d769e775" />
 A simple map of Earthquake data (2000 - 2020) to highlight and demonstrate basic workflow of importing data layers, applying symbology, adding labels, and designing layouts for maps.
