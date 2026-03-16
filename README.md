@@ -26,7 +26,29 @@ I am actively seeking internship or junior-level opportunities where I can learn
 - Basic Python for GIS (Jupyter Notebooks)
 - Data Management & Cleaning
 
-## QGIS Projects
+### Projects
+**KZN Health Facilities Interactive Dashboard**
+
+**Description:**
+A web-ready interactive visualization, here this interactive map visualizes healthcare facilities across KwaZulu-Natal (KZN), South Africa, including hospitals, clinics, and community health centres (CHCs). Users can explore geographic distribution, view administrative boundaries, and interact with detailed facility information.
+
+**Key Features:**
+
+**Interactive Map:** Zoom, pan, and toggle layers for districts, local municipalities, and healthcare facilities.
+
+**Facility Clustering:** Marker clusters for hospitals, clinics, and CHCs make it easy to explore dense areas.
+
+**Popups & Tooltips:** Click markers to see facility name, town/city, and district; hover over boundaries to see district or municipality names.
+
+**Custom Legend & Layer Control:** Clear visualization of boundaries and facility types with a dynamic layer toggle.
+
+**Data Integration:** Combines multiple CSV datasets and GeoJSON administrative boundaries in a single dashboard.
+
+**Built With:** Python (pandas, geopandas, folium), HTML, and Leaflet.js for interactivity.
+
+**Purpose:**
+The dashboard provides a spatial overview of healthcare infrastructure in KZN, supporting research, planning, or public information awareness. It demonstrates skills in data cleaning, geospatial analysis, and interactive mapping.
+
 **Earthquake Data**
 <img width="3507" height="2480" alt="Earthquakes" src="https://github.com/user-attachments/assets/4f958503-56b1-4acc-9bae-5101d769e775" />
 A simple map of Earthquake data (2000 - 2020) to highlight and demonstrate basic workflow of importing data layers, applying symbology, adding labels, and designing layouts for maps.
