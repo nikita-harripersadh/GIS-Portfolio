@@ -1,30 +1,85 @@
-# Portfolio 
-## Nikita Harripersadh 
-
-Welcome to my GIS portfolio. This portfolio demonstrates my ability to apply geospatial skills to real-world and academic projects, including cartography, spatial analysis, and geospatial coding.
+# Nikita Harripersadh 
+## GIS Analyst | Geospatial Data | Cartography | Spatial Analysis
+Turning geographic data into meaningful maps, analysis, and interactive visualisations.
 
 ## About Me
-I’m a recent graduate from Rhodes University with a Bachelor of Science in Environmental Science and Human Kinetics and Ergonomics. I hold a certificate in ArcGIS Pro Basics from Esri South Africa and am passionate about continuous learning—regularly completing Esri Academy and LinkedIn Learning courses to expand my GIS skillset.
+I'm an **Environmental Science graduate and aspiring Geospatial Developer** interested in the intersection of **GIS, software development, spatial data, and web technologies**.
 
-My journey into GIS began through my environmental science coursework, where I discovered the value of spatial data in understanding and addressing real-world challenges. This interest was further strengthened during a four-month GIS internship at Kartoza, where I gained hands-on experience using QGIS for spatial data processing, mapping, and analysis within a professional geospatial environment. 
+I enjoy working with geographic data and building tools that make spatial information easier to **process, analyse, visualise, and interact with**.
 
-GIS has since become the intersection of data, geography, and storytelling that now shapes my career goals.
+My current experience includes **Python, GeoPandas, Pandas, QGIS, ArcGIS Pro, Folium, Leaflet, GeoJSON, and spatial data processing**.
 
-## Whats Next?
-**Availability:** Open to internships, collaborations, or junior GIS roles.
+I'm currently expanding my software development skills with a focus on **geospatial applications, APIs, databases, and web mapping**.
 
+## Tech Stack
 
-As I continue to develop my career in environmental science and geospatial analysis, I am motivated to apply my GIS skills to addressing real-world challenges through spatial data and technology. I am eager to strengthen my technical expertise across GIS platforms while contributing to projects that support climate resilience, sustainable land management, and informed decision-making for communities.
+### Programming
 
-I am actively seeking internship or junior-level opportunities where I can learn from experienced geospatial professionals and contribute meaningfully to impactful mapping and analysis work within a collaborative environment.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
+---
 
-## Skills Demonstrated
-- GIS Platforms: QGIS, ArcGIS Pro
+### Geospatial
+
+<p>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge&logo=esri&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shapely-306998?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rasterio-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+</p>
+
+**Geospatial Concepts**
+
+- Vector & Raster Data
+- Coordinate Reference Systems (CRS)
 - Spatial Analysis
-- Cartography & Visualization
-- Basic Python for GIS (Jupyter Notebooks)
-- Data Management & Cleaning
+- Spatial Data Processing
+- GeoJSON
+
+---
+
+### Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+- Data Cleaning
+- Data Transformation
+- Spatial Data Processing
+- Data Visualisation
+- CSV
+- JSON
+- GeoJSON
+- Jupyter Notebooks
+
+---
+
+### Development
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+- Git & GitHub
+- REST APIs
+- Web Mapping
+- Data Pipelines
+- JSON
+- GeoJSON
+- Object-Oriented Programming
+- Software Development Fundamentals
+
 
 ## Side Projects
 **KZN Health Facilities Interactive Dashboard**
